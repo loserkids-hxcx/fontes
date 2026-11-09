@@ -20,8 +20,6 @@ KingVod https://da5f663b4690-kingvod.baby-beamup.club
 
 InovaPlay https://inova-play-addon.squareweb.app
 
-BestCine https://bestcine.dpdns.org
-
 BSCine https://bscine.alwaysdata.net
 
 SuperStream https://da5f663b4690-superstream.baby-beamup.club
@@ -33,3 +31,6 @@ PleiadesStream https://pleiadesstream.duckdns.org/addon/pleiades
 MagnetFlix https://magnetflix.flixbr.online
 
 ZeusOficial https://zeusoficial.dpdns.org/v1-pda1xxb-q2n-a3-mb-c0
+
+#EXCLUIDOS
+BestCine https://bestcine.dpdns.org
