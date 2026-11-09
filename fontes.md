@@ -12,8 +12,6 @@ Mico-Leao https://27a5b2bfe3c0-stremio-brazilian-addon.baby-beamup.club
 
 PopPlay https://popplay2.vercel.app
 
-MagnetO https://magneto-jnv5.onrender.com/v1/debrid=torbox,7bedb1fd-9383-449b-a461-7f2d0b0b6e75%7Clang=pt-BR
-
 KingVod https://da5f663b4690-kingvod.baby-beamup.club
 
 InovaPlay https://inova-play-addon.squareweb.app
@@ -30,6 +28,8 @@ ZeusOficial https://zeusoficial.dpdns.org/v1-pda1xxb-q2n-a3-mb-c0
 
 
 #EXCLUIDOS
+
+MagnetO https://magneto-jnv5.onrender.com/v1/debrid=torbox,7bedb1fd-9383-449b-a461-7f2d0b0b6e75%7Clang=pt-BR
 
 BestCine https://bestcine.dpdns.org
 
