@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "01a6c114e7359ee9",
+        "id": "2824a461da21e917",
         "type": "tabs",
         "children": [
           {
-            "id": "06bde5ce19b8a047",
+            "id": "4a87fca679529472",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -186,13 +186,16 @@
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
       "bases:Criar nova base": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "github-gitless-sync:Open sync conflicts view": false,
+      "github-gitless-sync:Sync with GitHub": false
     }
   },
-  "active": "891f1f6e4310777e",
+  "active": "4a87fca679529472",
   "lastOpenFiles": [
-    "Sem título.base",
     "fontes.md",
+    "Novo(a) Documento de Texto.txt",
+    "Sem título.base",
     "Bem-vindo.md"
   ]
 }
