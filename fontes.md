@@ -20,8 +20,6 @@ BSCine https://bscine.alwaysdata.net
 
 SuperStream https://da5f663b4690-superstream.baby-beamup.club
 
-VeTela https://addon.vetela.cc/vtl_d38bba4d1ab6449fe16750991396a662
-
 PleiadesStream https://pleiadesstream.duckdns.org/addon/pleiades
 
 ZeusOficial https://zeusoficial.dpdns.org/v1-pda1xxb-q2n-a3-mb-c0
@@ -29,7 +27,7 @@ ZeusOficial https://zeusoficial.dpdns.org/v1-pda1xxb-q2n-a3-mb-c0
 
 #EXCLUIDOS
 
-MagnetO https://magneto-jnv5.onrender.com/v1/debrid=torbox,7bedb1fd-9383-449b-a461-7f2d0b0b6e75%7Clang=pt-BR
+MagnetO https://magneto-jnv5.onrender.com/v1/lang=pt-BR/
 
 BestCine https://bestcine.dpdns.org
 
